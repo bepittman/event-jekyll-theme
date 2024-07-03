@@ -1,10 +1,10 @@
-- title: Name
-  name: Name-1
+- title: Day 1
+  name: day-1
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
+  topic: Day 1 Description
   description: More Info
 
 - title: Name
@@ -16,11 +16,3 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
