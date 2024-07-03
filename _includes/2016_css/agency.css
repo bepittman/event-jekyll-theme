@@ -360,7 +360,6 @@ header .intro-text .intro-lead-in {
     font-style: italic;
     line-height: 22px;
     color: white;
-    background-color: white;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
@@ -386,7 +385,6 @@ header .intro-text .intro-heading {
         font-style: italic;
         line-height: 40px;
         color: white;
-        background-color: white;
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
 
