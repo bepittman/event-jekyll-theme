@@ -4,26 +4,21 @@
   info: Find out the team members
   link: /team
 
-- inverted: timeline-inverted
-  img: icon-agenda.jpeg
-  name: Agenda
-  info: Check out the agenda
-  link: /agenda
 
-- inverted: 
+- inverted: timeline-inverted
   img: icon-team.jpeg
   name: Sponsors
   info: Check out our sponsors
   link: /sponsors
 
-- inverted: timeline-inverted
+- inverted: 
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about our location
   link: /venue
 
 
-- inverted: 
+- inverted: timeline-inverted
   img: booklet-icon.png
   name: Event Program
   info: View or Download our event program.
