@@ -116,6 +116,7 @@ aside.clients,
     font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .btn-primary:hover,
