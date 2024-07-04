@@ -23,7 +23,7 @@
   link: /venue
 
 
-- inverted: timeline-inverted
+- inverted: 
   img: booklet-icon.png
   name: Event Program
   info: View or Download our event program.
